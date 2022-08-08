@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Kamruzzaman</h1>
-<h3>A passionate frontend developer from Bangladesh.</h3>
+I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.
 # 💫 About Me:
+
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
