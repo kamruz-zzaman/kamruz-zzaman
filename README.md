@@ -4,7 +4,7 @@ I am a MERN Stack Developer with a huge love for React.js, Next.js, Redux, Expre
 
 
 🔭 I’m currently working on: Across The Global(ATG),Bangalore,India(Remote) as a MERN Stack Developer.<br>
-📫 I am just one mail away - [kamruz.zaman8991@gmail.com]
+📫 I am just one mail away - [kamruz.zaman8991@gmail.com]<br>
 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.<br>
 💬 Ask me about: React.js,Node.js,Express.js,Mongo DB, API development.<br>
 ⚡ Fun fact: I love to cook, I love to sing, I love to travel.
