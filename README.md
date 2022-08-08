@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Kamruzzaman</h1>
-I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.
-# 💫 About Me:
+I am a Full MERN Stack Developer with a huge love for React.js, Next.js, Redux, Express.js,Node.js,Mongo DB, Everything API,  TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.
+
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
