@@ -20,6 +20,6 @@ I am a MERN Stack Developer with a huge love for React.js, Next.js, Redux, Expre
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Where to find me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kmkamruzzaman32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamruz-zaman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC8kwYxXmaMEIPh8tLvNrqGw) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kmkamruzzaman32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamruz-zaman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC8kwYxXmaMEIPh8tLvNrqGw) 
 ---
 [![](https://visitcount.itsvg.in/api?id=kamruz-zzaman&icon=0&color=0)](https://visitcount.itsvg.in)
