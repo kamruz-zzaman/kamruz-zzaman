@@ -3,7 +3,7 @@
 I am a MERN Stack Developer with a huge love for React.js, Next.js, Redux, Express.js,Node.js,Mongo DB, Everything API,  TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.
 
 
-🔭 I’m currently working on: Across The Global(ATG),Bangalore,India(Remote) as a MERN Stack Developer.<br>
+🔭 I’m currently working on: Hovata Technology, Tower (Unit 5-A, 42/43 Fahima, Purana Paltan, Dhaka 1000 as a Software Engineer Frontend.
 📫 I am just one mail away - [kamruz.zaman8991@gmail.com]<br>
 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.<br>
 💬 Ask me about: React.js,Node.js,Express.js,Mongo DB, API development.<br>
